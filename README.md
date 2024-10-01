@@ -40,11 +40,7 @@ Thus, systems like this never get their place in real life. We’ve developed a 
 - An additional feature for sharing food related content in the form of posts.
 
 
-Following is our approach divided into different phases about the solution of the problem.
 
-<img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Images/Workflow.PNG">
-
-<img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Images/Flow%20chart%201.png">
 
 ## WEB APPLICATION:
 

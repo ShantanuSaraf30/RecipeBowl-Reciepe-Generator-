@@ -1,23 +1,5 @@
 # Homemade RecipeBowl:Your Ingredients Our Recipes
 
-## Group - 10
-**Mentor** - Poonam Saini, Faculty, Computer Science and Engineering
-
-### Developer Team:
-
-- Ankit Goyal - 18103018
-- Krish Garg - 18103027
-- Divyanshu Garg - 18103035
-- Anish Agarwal - 18103039
-
-## Documentation:
-
-[Homemade RecipeBowl - Documentation](https://drive.google.com/file/d/1rF9SbxljkF8EDAXWviv0STYPlrrwL4gI/view?usp=sharing)
-
-[ChefKoch Images - Dataset](https://drive.google.com/drive/folders/1uNk_TbVd__8W8HoXop1uI_SNFiRy03ip?usp=sharing)
-
-[Cuisine Dataset - Dataset](https://drive.google.com/drive/folders/1hq0B1OVlEVXvA_ChwQVHGJD9vp7A5CKi?usp=sharing)
-
 ## Website Snapshot:
 
 <img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Videos/Project%20Demo%20gif%201.gif" alt="Input" width="100%" height="auto"> 
@@ -45,20 +27,6 @@
 - Running flask file: $flask run --no-debugger
 
 
-## Project Synopsis:
-
-**BACKGROUND:**
-
-Most often, we get into a situation when we want to cook something delicious, however, we are short on ingredients at our home. It also creates a lot of confusion about what to cook with the available ingredients. Further, we might not have accessibility to more ingredients from the nearby market due to various reasons like non-availability or specifically the unprecedented times as Covid which has resulted in shutdowns. Finally, we are bound at home to make the best possible dish from leftover ingredients. Our project aims to make a user aware of the various dishes which can be cooked from the available set of ingredients being input by a user.
-
-<img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Images/Cook.jpg" width="50%" height="50%">
-
-**MOTIVATION:**
-
-Our project aims to make a user aware of the various dishes which can be cooked from the available set of ingredients being input by a user. There may be times when a person desires new, delicious, healthy or maybe presentable cuisines and above all, it necessarily is homemade as the possibilities to get one from outside might be restricted like in the recent pandemic period (Covid-19). An optimal solution to this could be the design of an application wherein the user will be capable of exploring and preparing several new dishes which include those ingredients. Therefore, a system could be designed that could actually take ingredients as the input and generates the best-matched recipe from an exhaustive list of most matching recipes.
-
-In addition, this project would be a great platform for people to learn and expand their knowledge in the field of cooking. Moreover, it will help in exploring and spreading the taste of one region worldwide. It will also bring innovation to the art of cooking. Our motivation is not only restricted to these merits but also includes more information about nutrition for respective recipes. Nutrition and health being the most important aspects of one&#39;s life are also one of the most neglected areas. This project will also ensure that a user is aware of his/her food intake value and thus plan to explore and make healthier meals.
-
 **What is Homemade RecipeBowl:**
 
 <img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Images/Homemade-Recipebowl.png" width="35%" height="35%">
@@ -74,24 +42,6 @@ Thus, systems like this never get their place in real life. We’ve developed a 
 - It is a recipe generator system and not a recommender system!!!
 - An additional feature for sharing food related content in the form of posts.
 
-**Problem Statement**
-
-A lot of times, we are in a situation when we want to cook something delicious but we are short on ingredients at our home and we are confused about what to cook with the ingredients we have. We might be in a situation where either we don’t have any means to get ingredients from the market, or we are bound to stay at home. Just as we did in this COVID-19 pandemic situation, where we stayed in our homes for months in complete lockdown. We feel helpless in such a situation.
-
-<img src="https://github.com/ankitgoyal0301/Homemade-RecipeBowl-Your-Ingredients-Our-Recipes/blob/master/Documentation/Images/Cook-confused.jpg" width="20%" height="20%">
-
-In such a situation we keep on searching for recipes that match our ingredients online, but hardly get any results and that too takes a lot of time, and ultimately we return to our kitchen disappointed. There’s a need for a system that could actually take ingredients as the input and give us the list of most matching recipes that could help us make delicious food at our homes.
-- What already exists:
-  - Recipes-by-name search system
-  - Recipes recommender search system
-- Existing Problems:
-  - No Recipes-by-Ingredients search system
-  - No Recipes-by-Images search system
-  - No Ingredients-Recipe and Image-Recipe datasets.
-- Our Contribution:
-  - Scraped Ingredients-Recipe and Image-Recipe datasets.
-  - Training Image-to recipes model using Convolutional Neural Network
-  - Recipe generator using character-level RNN text generation ML technique.
 
 Following is our approach divided into different phases about the solution of the problem.
 
